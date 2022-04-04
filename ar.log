@@ -1,0 +1,2 @@
+# Logfile created on 2022-04-04 16:34:22 +0200 by logger.rb/v1.5.0
+D, [2022-04-04T16:34:22.804343 #14632] DEBUG -- :    (0.2ms)  SELECT 1
